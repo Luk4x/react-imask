@@ -9,4 +9,5 @@ export const Input = styled.input`
     font-size: 17px;
     padding: 0 10px;
     border: 2px solid #444;
+    transition: all 0.4s ease-in-out;
 `;
