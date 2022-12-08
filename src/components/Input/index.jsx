@@ -34,3 +34,11 @@ export default function Input({ inputValue, setInputValue }) {
         />
     );
 }
+
+/*
+https://github.com/Luk4x/gencard/blob/main/src/main.js
+https://imask.js.org/guide.html
+
+https://www.npmjs.com/package/react-imask
+https://www.freakyjolly.com/react-add-pattern-mask-using-imask-js-number-email-phone-date-tutorial-by-examples/
+*/
