@@ -29,8 +29,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/86276393/206425046-6cf7122d-f5e4-40fd-82f3-df27fea62cfc.gif" />
 </div>
-  
-> **If the video has any errors, reload the page!**<br>
+
 > Access the project online **[HERE](https://luk4x-react-imask.netlify.app/)**
 
 ## 🚀 Technologies Used
